@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/authdialog.o
+release/addentrydialog.o
+release/accountdialog.o
+release/supportdialog.o
+release/translations.o
+release/pressuretracker_plugin_import.o
+release/moc_mainwindow.o
+release/moc_authdialog.o
+release/moc_addentrydialog.o
+release/moc_accountdialog.o
+release/moc_supportdialog.o
+release/moc_translations.o
